@@ -17,6 +17,12 @@ Projeto usando Python que simula um game de rodadas, nele cada um dos players at
 # clonar repositório
 git clone https://github.com/ArtDevRodrigues/game-basePython.git
 
+# Execulando o projeto no windowns
+python main.py
+
+# Execulando o projeto no linux
+python3 main.py
+
 ```
 
 ## Contatos do Autor
