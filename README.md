@@ -4,12 +4,12 @@
 
 Projeto usando Python que simula um game de rodadas, nele cada um dos players ataca por vez, tem chance de um player atacar mais de uma vez.
 
-# Tecnologias usadas
+# Tecnologia usada
 
--Python 3.+
+-Python 3.8.0
 
-# Pré-Requisitos
-## As versões mais recentes de:
+# Pré-Requisito
+## A versão de:
 - Python 3.+
 
 # Como Rodar o Projeto
